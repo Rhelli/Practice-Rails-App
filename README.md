@@ -17,7 +17,9 @@ The assignment can be found in the Odin Project's Database course which can be f
 
 ## 🔬 Technologies & Languages Used
 
-- MySQL
+ - Ruby 2.6.5
+ - Ruby-on-Rails 5.2.4.1
+ - Heroku
 
 ## 👨🏽‍💻 Creator
 
